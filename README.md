@@ -34,6 +34,12 @@ It's a good practice to use a virtual environment to isolate project dependencie
     .\venv\Scripts\activate
     ```
 
+## Deactivate a Virtual Environment
+
+    ```bash
+    deactivate
+    ```
+
 ## Installing Dependencies
 
 Install the required Python packages by running:
