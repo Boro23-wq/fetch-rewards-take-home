@@ -66,7 +66,7 @@ def main():
     cycle = 1
 
     try:
-        # loop through indefinitely until user intervention
+        # loop through indefinitely until user manually exits
         while True:
             # print(availability_count)
             print(f"\n --- Test cycle #{cycle} begins --- \n")
